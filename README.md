@@ -9,7 +9,7 @@ RAGKart-Advisor is an advanced chatbot designed to provide smart product recomme
 - **Model**: Powered by Llama 3.1 (70B model) for high-quality conversational responses.
 - **Backend Framework**: Flask, providing a web-based interface for user interactions.
 - **RAG Concept**: Combines Retrieval-Augmented Generation for generating answers with contextually aware recommendations.
-
+```
 ## 📂 Project Structure
 📦 RAGKART_ADVISOR/
 ├── 📂 flipkart/
@@ -26,4 +26,4 @@ RAGKart-Advisor is an advanced chatbot designed to provide smart product recomme
 ├── setup.py                            # Setup configuration for package management
 └── app.py                              # Main Flask application file to run the chatbot
 
-
+```
