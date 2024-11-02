@@ -38,8 +38,8 @@ RAGKart-Advisor is an advanced chatbot designed to provide smart product recomme
 
 1. **Clone the Repository**:
     ```bash
-    git clone [https://github.com/yourusername/RAGKART_ADVISOR.git](https://github.com/datascientistabhishek/RAGKart-Advisor-.git)
-    cd RAGKART_ADVISOR
+    git clone https://github.com/datascientistabhishek/RAGKart-Advisor-.git
+    cd RAGKart-Advisor
     ```
 
 2. **Set Up the Environment**:
